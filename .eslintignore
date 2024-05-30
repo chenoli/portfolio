@@ -1,0 +1,6 @@
+# config
+vite.config.ts
+tailwind.config.js
+
+# typings
+vite-env.d.ts
